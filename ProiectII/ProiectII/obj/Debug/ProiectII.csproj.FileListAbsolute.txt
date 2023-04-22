@@ -1,0 +1,13 @@
+C:\Users\Raul Detesan\OneDrive\Desktop\II\ProiectII\ProiectII\bin\Debug\UsersCredentials.mdf
+C:\Users\Raul Detesan\OneDrive\Desktop\II\ProiectII\ProiectII\bin\Debug\UsersCredentials_log.ldf
+C:\Users\Raul Detesan\OneDrive\Desktop\II\ProiectII\ProiectII\bin\Debug\ProiectII.exe.config
+C:\Users\Raul Detesan\OneDrive\Desktop\II\ProiectII\ProiectII\bin\Debug\ProiectII.exe
+C:\Users\Raul Detesan\OneDrive\Desktop\II\ProiectII\ProiectII\bin\Debug\ProiectII.pdb
+C:\Users\Raul Detesan\OneDrive\Desktop\II\ProiectII\ProiectII\obj\Debug\ProiectII.csproj.AssemblyReference.cache
+C:\Users\Raul Detesan\OneDrive\Desktop\II\ProiectII\ProiectII\obj\Debug\ProiectII.Form1.resources
+C:\Users\Raul Detesan\OneDrive\Desktop\II\ProiectII\ProiectII\obj\Debug\ProiectII.Properties.Resources.resources
+C:\Users\Raul Detesan\OneDrive\Desktop\II\ProiectII\ProiectII\obj\Debug\ProiectII.csproj.GenerateResource.cache
+C:\Users\Raul Detesan\OneDrive\Desktop\II\ProiectII\ProiectII\obj\Debug\ProiectII.csproj.CoreCompileInputs.cache
+C:\Users\Raul Detesan\OneDrive\Desktop\II\ProiectII\ProiectII\obj\Debug\ProiectII.exe
+C:\Users\Raul Detesan\OneDrive\Desktop\II\ProiectII\ProiectII\obj\Debug\ProiectII.pdb
+C:\Users\Raul Detesan\OneDrive\Desktop\II\ProiectII\ProiectII\obj\Debug\ProiectII.FormCreateAcc.resources
