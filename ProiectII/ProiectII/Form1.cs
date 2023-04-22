@@ -24,7 +24,7 @@ namespace ProiectII
 
         }
 
-        private void button1_Click(object sender, EventArgs e) // login
+        private void button1_Click(object sender, EventArgs e) // login buton
         {
             string username = textBox_Username.Text;
             string password =  textBox_Password.Text; // parola si username stocate in variabile 
